@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header, section { padding: 40px 20px; }
+        header { background: #333; color: #fff; text-align: center; }
+        nav a { color: #fff; margin: 0 10px; text-decoration: none; }
+        .hero { background: #f4f4f4; text-align: center; padding: 60px 20px; }
+        .projects { background: #fafafa; }
+        .project { margin-bottom: 20px; }
+        footer { background: #333; color: #fff; text-align: center; padding: 20px; }
+        .container { max-width: 900px; margin: 0 auto; }
